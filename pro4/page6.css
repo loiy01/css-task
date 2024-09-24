@@ -1,0 +1,16 @@
+.div1{
+    width: 100%;
+    height: 100px;
+    background-color: aquamarine;
+    position: sticky;
+    top: 0px;
+}
+.u1{
+    list-style: none;
+    display: flex;
+}
+.l1{
+    text-decoration: none;
+    font-size: 30px;
+    margin-left: 30px;
+}

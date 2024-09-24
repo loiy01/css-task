@@ -1,0 +1,22 @@
+.p3{
+    text-align: center;
+    background-color: aquamarine;
+    color: blue;
+    text-decoration: underline;
+}
+.p4{
+    color: pink;
+    font-style:italic;
+    text-transform: uppercase;
+}
+.p5{
+    text-align: right;
+    color: orange;
+    text-decoration: line-through;
+}
+.p6{
+    text-align: left;
+    color: yellow;
+    text-decoration: underline red;
+
+}

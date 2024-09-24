@@ -1,0 +1,37 @@
+.p1{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: green;
+    
+}
+#i1{
+    background-color: aqua;
+    color: greenyellow;
+}
+.color{
+    background-color: rgb(182, 223, 248);
+}
+.p2{
+ color: red;
+}
+.p3{
+    color: red;
+}
+.p4{
+    color: blue;
+}
+.color1{
+    background-color: rgb(249, 189, 236);
+    text-align: center;
+}
+.num1{
+    color: blue;
+}
+.num2{
+    color: red;
+}
+.num3{
+    color: blue;
+}
+.num4{
+    color: red;
+}

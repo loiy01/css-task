@@ -1,0 +1,12 @@
+.img1{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 10px green solid;
+}
+.div1{
+    background-color: silver;
+}
+.div2{
+    background-color: green;
+}

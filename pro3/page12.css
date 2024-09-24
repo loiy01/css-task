@@ -1,0 +1,15 @@
+.div1{
+    border: 2px solid brown;
+    width: 400px;
+    height: 600px;
+    background-color: blanchedalmond
+}
+.div2{
+    border: 2px solid rgb(182, 240, 22);
+  
+}
+.div3{
+    background-color: yellow;
+    overflow: scroll;
+    border: 5px dashed orange;
+} 

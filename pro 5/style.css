@@ -1,0 +1,19 @@
+body
+{
+background-color: blueviolet;
+}
+.boxs
+{
+    display: flex;
+    height: 1000px;
+    width: 5200px; 
+
+}
+.box
+{
+background-color: white;
+display: flex;
+height: 200px;
+width: 200px; 
+margin: 20px;   
+}

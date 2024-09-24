@@ -1,0 +1,27 @@
+div{
+    text-align: center;
+}
+.div1{
+    width: 100%;
+    height: 40px;
+    background-color: red ;
+    opacity: 100%;
+}
+.div2{
+    width: 100%;
+    height: 40px;
+    background-color: red ;
+    opacity: 50%;
+}
+.div3{
+    width: 100%;
+    height: 40px;
+    background-color: red ;
+    opacity: 25%;
+}
+.div4{
+    width: 100%;
+    height: 40px;
+    background-color: red ;
+    opacity: 0%;
+}

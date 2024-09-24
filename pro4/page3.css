@@ -1,0 +1,32 @@
+.sq1{
+    width: 100px ;
+    height: 100px;
+    position: absolute;
+    background-color: aquamarine;
+    top: 0px;
+    left: 0px;
+}
+.sq2{
+    width: 100px ;
+    height: 100px;
+    position: absolute;
+    background-color: rgb(117, 46, 161);
+    top: 0px;
+    right: 0px;
+}
+.sq3{
+    width: 100px ;
+    height: 100px;
+    position: absolute;
+    background-color: rgb(210, 28, 80);
+    bottom: 0px;
+    left: 0px;
+}
+.sq4{
+    width: 100px ;
+    height: 100px;
+    position: absolute;
+    background-color: rgb(23, 15, 184);
+    bottom: 0px;
+    right: 0px;
+}

@@ -1,0 +1,14 @@
+.div2{
+    display: flex;
+    margin: 100px;
+    width: 40px;
+    border: 1px solid;
+    box-shadow:
+    0 0 0 1px #f4aab9,
+    0 0 0 1px white,
+    0 0 0 1px white,
+    0 0 0 2px #1587c1;
+
+     
+    
+}

@@ -1,0 +1,15 @@
+.div1{
+    background-color: blanchedalmond;
+    
+
+}
+.div2{
+    display: flex;
+    padding-left: 20px;
+
+}
+.f1{
+    border-style:double;
+    width: 200px;
+    margin-left: 20px;
+}

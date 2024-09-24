@@ -1,0 +1,24 @@
+.f1{
+    border: 2px solid;
+    background-color: burlywood;
+    
+        
+}
+.for{
+    margin: 8px;
+    border: 0px;
+    width: 90%;
+    height: 40px;
+    margin-left: 60tpx;
+    
+}
+.btn{
+    background-color: yellow;
+}
+.divvv{
+    background-color: brown;
+    width: 100%;
+    height: 60px;
+    text-align: center;
+    
+}

@@ -1,0 +1,13 @@
+.p1{
+    text-decoration: overline green;
+}
+.p2{
+    text-decoration: line-through silver;
+}
+.p3{
+    text-decoration: underline rgb(202, 60, 84);
+}
+.p4{
+    text-decoration: underline overline blue;
+    
+}

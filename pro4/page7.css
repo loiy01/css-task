@@ -1,0 +1,25 @@
+.im1 {
+    position:absolute;
+    width: 100px;
+    height: 100px;
+}
+.i1 {
+    top: 50px;
+    left: 50px;
+    z-index: -1;
+}
+.i2 {
+    top: 100px;
+    left: 100px;
+    z-index: -1;
+}
+.i3 {
+    top: 150px;
+    left: 150px;
+    z-index: -1;
+}
+.i4{
+    top: 20;
+    left: 20;
+    z-index: -1;
+}

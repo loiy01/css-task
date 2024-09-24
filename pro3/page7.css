@@ -1,0 +1,6 @@
+.f1{
+    
+    border: 10px solid ;
+  padding: 15px;
+  border-image: url("/img2.jfif") 30 round;
+}

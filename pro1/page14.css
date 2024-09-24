@@ -1,0 +1,4 @@
+body{
+    background-image: url(/img2.jfif),url(img1.jfif);
+    background-repeat: repeat-x,repeat-y;
+}

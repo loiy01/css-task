@@ -1,0 +1,25 @@
+.div1{
+    border: 2px solid;
+    border-top: dashed;
+    border-bottom: dotted;
+}
+.div2{
+    border: 2px solid;
+    border-bottom: dashed;
+    border-left: dotted;
+}
+.div3{
+    border: 2px dotted;
+}
+.div4{
+    border: 2px solid;
+}
+.div5{
+    border: 1px blue solid;
+}
+.div6{
+    border: 2px solid green;
+    border-right: solid blue;
+    border-bottom: green dotted;
+
+}

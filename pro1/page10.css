@@ -1,0 +1,20 @@
+.div1,.div3{
+    background-color: blue;
+}
+.p1{
+    color: white;
+    padding-top: 4px;
+    
+}
+.div5{
+    background-color: pink;
+}
+.div7,.div9{
+    background-color: orange;
+}
+div{
+    height: 30px;
+}
+.div2,.div4,.div6,.div8{
+    color: black;
+}

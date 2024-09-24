@@ -1,0 +1,35 @@
+.one{
+    position:absolute;
+    top: 0px;
+    left: 0px;
+    background-color: rgb(239, 7, 46);
+    width: 100px;
+    height: 100px;
+}
+.tow{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    background-color: rgb(110, 110, 110);
+    width: 100px;
+    height: 100px;
+  
+}
+.three{
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    background-color: rgb(170, 255, 0);
+    width: 100px;
+    height: 100px;
+   
+}
+.four{
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    background-color: rgb(255, 186, 10);
+    width: 100px;
+    height: 100px;
+
+}

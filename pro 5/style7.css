@@ -1,0 +1,34 @@
+.container{
+    position: relative;
+    width: 100%;
+    height: 600px;
+}
+.one img{
+   z-index: 1;
+position: absolute;
+    width: 300px;
+}
+.tow img{
+  
+    position: absolute;
+    top: 40px;
+    left: 40px;
+   width: 300px;
+
+}
+.three img{
+   
+    position: absolute;
+    top: 70px;
+    left: 70px;
+    width: 300px;
+  
+}
+.four img{
+ 
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    width: 300px;
+  
+}
